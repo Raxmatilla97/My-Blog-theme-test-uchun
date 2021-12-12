@@ -318,6 +318,7 @@ header ul li ul li a {
 }
 
 /* Post single */
+
 .single_post {
     margin-bottom: 30;
 }
@@ -346,4 +347,25 @@ header ul li ul li a {
 .single_post a:hover {
     text-decoration: none;
     color: #008484;
+}
+
+/* Registratsiya */
+
+.reg_form h2{
+
+    text-align: center;
+    margin: 30px 0;
+}
+
+.reg_form a {
+    font-size: 1.2rem;
+    transition: all .3s;
+    color: #5c5b5b;
+    text-decoration: none;
+    margin-left: 60px
+}
+
+.reg_form a:hover {
+    margin-left: 55px;
+    transition: all .3s;
 }
